@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 DevOps Engineer | Cloud | Automation | CI/CD
 
-<!--
-**NonsoEchendu/NonsoEchendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building scalable, secure, and automated infrastructure.  
+I specialize in **AWS, Docker, Kubernetes, Terraform, CI/CD, and Monitoring**.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools:
+- **Cloud & Containers** – AWS, Docker, Kubernetes
+- **CI/CD & Automation** – GitHub Actions, Jenkins, GitLab CI, Ansible
+- **Monitoring & Security** – Prometheus, Grafana, SonarQube, Traefik
+- **Infrastructure as Code** – Terraform, Kubernetes, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Recent Projects:**
+- Automated **CI/CD pipelines** with GitHub Actions & Terraform.
+- Deployed **SonarQube & security checks** for quality code.
+- Managed **reverse proxy & routing** with Traefik.
+
+🔧 **Let’s connect & collaborate!**
